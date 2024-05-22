@@ -4,7 +4,7 @@ import FileUpload from './FileUpload';
 function App() {
   return (
     <div className="App">
-      <h1>IPFS Audio Player</h1>
+      <h1>OM7</h1>
       <FileUpload />
     </div>
   );
